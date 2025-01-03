@@ -17,9 +17,6 @@ function getInputValue() {
     }
     else {
         userInput = inputBox.value;
-        console.log(userInput);
-        console.log(palindromeChecker());
-        console.log(cleanedInput);
     }
     
 }
